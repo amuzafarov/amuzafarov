@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amuzafarov&label=Profile%20views&color=0e75b6&style=flat" alt="amuzafarov" /> </p>
 
-- 🔭 I’m currently working on [Trigma AI](trigma.ai/)
-
-- 🌱 I’m currently learning **React Native to build mobile apps**
-
 - 👯 I’m looking to collaborate on **Projects on web3**
 
 - 🤝 I’m looking for help with **I’m looking for help with in building cool developer communities**
